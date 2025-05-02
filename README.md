@@ -17,7 +17,7 @@ Meu objetivo é continuar evoluindo como desenvolvedora, contribuindo com soluç
   ![image alt](https://github.com/WiviamEshley/portifolioWivi/blob/d3114fd627a4bc173bfe116721baa6937b6d99bd/Tela%20Inicial.png)
 
 * **Sobre Mim 👩‍💻**
-  
+  ![image alt](https://github.com/WiviamEshley/portifolioWivi/blob/c0998ff79d888ebc645bbd0dbf72d32f0f9c29f8/Tela%20Sobre%20Mim.png)
   
 ## ⚙️ Requisitos para Executar o Projeto
 
