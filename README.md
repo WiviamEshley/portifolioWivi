@@ -1,7 +1,7 @@
 
 ## 💼 Portfólio Pessoal — Wiviam Eshley
 
-Este é o meu portfólio pessoal, desenvolvido como parte das atividades práticas da disciplina **Fundamentos de Programação**, no curso de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**.
+Este é o meu portfólio pessoal, desenvolvido como parte das atividades práticas da disciplina **FRONT-END FRAMEWORKS**, no curso de **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**.
 O projeto teve como objetivo aplicar os conhecimentos iniciais de **HTML**, **CSS** e **estruturação de páginas web**, a partir da personalização de um template base. Também foi uma oportunidade para exercitar a **criatividade**, o **design responsivo** e a organização de conteúdo em páginas estáticas.
 
 
