@@ -14,7 +14,7 @@ Meu objetivo é continuar evoluindo como desenvolvedora, contribuindo com soluç
 ## 🖼️ Telas e Seções do Portfólio
 
 * **Página Inicial 🏠**
- 
+  ![image alt](https://github.com/WiviamEshley/portifolioWivi/blob/d3114fd627a4bc173bfe116721baa6937b6d99bd/Tela%20Inicial.png)
 
 * **Sobre Mim 👩‍💻**
   
